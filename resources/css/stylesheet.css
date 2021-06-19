@@ -1,0 +1,41 @@
+#headerSection {
+  background-color: #212529;
+}
+
+#brand {
+  font-weight: 600;
+  color: #f1c40f;
+  font-style: italic;
+  font-family: cursive;
+  font-size: xx-large;
+}
+
+body {
+  background-color: #dbe4c3;
+}
+
+#adminSection {
+  padding: 15px;
+  border: 1px solid #34495e;
+  background-color: whitesmoke;
+  border-radius: 20px;
+}
+
+#component {
+  background-color: #212529;
+  border-radius: 10px;
+}
+
+
+#alertcart{
+
+background-color: red;
+}
+
+h5{
+  color: #dbe4c3;
+}
+
+h6{
+  color: #dbe4c3;
+}
